@@ -1,3 +1,6 @@
 {
-	"name": "harvey-tucker.playercontrollertemplate.runtime"
+	"name": "harvey-tucker.playercontrollertemplate.runtime",
+	"references": [
+		"Unity.InputSystem"
+	]
 }
