@@ -6,7 +6,7 @@
   "unityRelease": "9f1",
   "description": "A basic template player controller with camera control, movement and jumping.",
   "dependencies": {
-    "com.unity.test-framework": "1.6.0"
+    "com.unity.inputsystem": "1.18.0"
   },
   "author": {
     "name": "Harvey Tucker",
